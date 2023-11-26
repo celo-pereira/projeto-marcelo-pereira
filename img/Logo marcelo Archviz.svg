@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="M" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 0 12.49 12.49;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-7, .cls-12 {
+        stroke-width: 5px;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13, .cls-14 {
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-weight: 600;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0 0 12.55 12.55;
+      }
+
+      .cls-3, .cls-5, .cls-6, .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke-width: 6px;
+      }
+
+      .cls-16, .cls-17, .cls-18, .cls-19 {
+        font-family: Montserrat-ExtraLight, Montserrat;
+        font-weight: 200;
+      }
+
+      .cls-20 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 0 0 11.46 11.46;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        fill: #fff;
+        font-size: 100px;
+      }
+
+      .cls-5 {
+        stroke-dasharray: 0 0 11.77 11.77;
+      }
+
+      .cls-6 {
+        stroke-dasharray: 0 0 11.52 11.52;
+      }
+
+      .cls-7 {
+        stroke-dasharray: 0 0 11.56 11.56;
+      }
+
+      .cls-8 {
+        stroke-dasharray: 0 0 11.54 11.54;
+      }
+
+      .cls-17 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-10 {
+        stroke-dasharray: 0 0 12.4 12.4;
+      }
+
+      .cls-18 {
+        font-size: 48px;
+      }
+
+      .cls-18, .cls-24 {
+        fill: #fc0;
+      }
+
+      .cls-11 {
+        stroke-dasharray: 0 0 12.53 12.53;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        stroke-width: 0px;
+      }
+
+      .cls-12 {
+        stroke-dasharray: 0 12;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="cls-9" points="327.16 599.34 321.99 596.31 322.01 590.31"/>
+    <line class="cls-8" x1="322.06" y1="578.77" x2="322.95" y2="353.77"/>
+    <polyline class="cls-9" points="322.98 348 323 342 328.19 338.98"/>
+    <line class="cls-10" x1="338.91" y1="332.75" x2="526.49" y2="223.64"/>
+    <polyline class="cls-9" points="531.85 220.52 537.04 217.5 542.28 220.42"/>
+    <line class="cls-6" x1="552.35" y1="226.02" x2="748.72" y2="335.28"/>
+    <polyline class="cls-9" points="753.76 338.08 759 341 758.93 347"/>
+    <line class="cls-5" x1="758.8" y1="358.77" x2="756.18" y2="588.37"/>
+    <polyline class="cls-9" points="756.11 594.26 756.04 600.26 750.81 603.2"/>
+    <line class="cls-11" x1="739.89" y1="609.34" x2="548.72" y2="716.83"/>
+    <polyline class="cls-9" points="543.26 719.9 538.03 722.84 532.85 719.81"/>
+    <line class="cls-3" x1="522.02" y1="713.47" x2="332.58" y2="602.51"/>
+  </g>
+  <g>
+    <line class="cls-2" x1="321.99" y1="596.31" x2="327.16" y2="593.28"/>
+    <line class="cls-1" x1="337.94" y1="586.96" x2="526.48" y2="476.37"/>
+    <polyline class="cls-2" points="531.86 473.21 537.04 470.17 537.04 464.17"/>
+    <line class="cls-4" x1="537.04" y1="452.71" x2="537.04" y2="229.23"/>
+    <polyline class="cls-2" points="537.04 223.5 537.04 217.5 537.04 223.5"/>
+    <line class="cls-4" x1="537.04" y1="234.96" x2="537.04" y2="458.44"/>
+    <polyline class="cls-2" points="537.04 464.17 537.04 470.17 542.2 473.24"/>
+    <line class="cls-7" x1="552.14" y1="479.14" x2="745.91" y2="594.24"/>
+    <line class="cls-2" x1="750.88" y1="597.19" x2="756.04" y2="600.26"/>
+  </g>
+  <line class="cls-12" x1="538.03" y1="722.84" x2="536.98" y2="473.17"/>
+  <text class="cls-23" transform="translate(40.06 836)"><tspan class="cls-16" x="0" y="0">MARCE</tspan><tspan class="cls-17" x="375.1" y="0">L</tspan><tspan class="cls-19" x="431.8" y="0">O </tspan><tspan class="cls-13" x="540.79" y="0">P</tspan><tspan class="cls-14" x="612.39" y="0">EREIRA</tspan></text>
+  <path class="cls-24" d="m537,474l-190.99-100.72,7.99-.28v246s-35-21-35-21l1-257.83,8-5.17,209,106h0l218-105.83,7,3.83-2,264.17-32,17.83-.44-247.72h8.54m23.91,229.89l-32,17.83-1-248"/>
+  <text class="cls-18" transform="translate(624.11 880.75)"><tspan x="0" y="0">Design &amp; A</tspan><tspan class="cls-20" x="256.12" y="0">r</tspan><tspan class="cls-22" x="274.08" y="0">c</tspan><tspan class="cls-21" x="300" y="0">h</tspan><tspan class="cls-15" x="331.68" y="0">viz</tspan></text>
+</svg>
